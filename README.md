@@ -10,7 +10,7 @@
 ## Install
 
 ```bash
-npm install use-ada-handle-resolver
+npm install @summonlabs/use-ada-handle-resolver
 ```
 
 ## Example
