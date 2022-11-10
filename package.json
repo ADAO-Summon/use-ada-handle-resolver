@@ -1,4 +1,6 @@
 {
+  "name": "use-ada-handle-resolver",
+  "author": "SummonLabs",
   "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
@@ -32,8 +34,10 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-ada-handle-resolver",
-  "author": "SummonLabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ADAO-Summon/use-ada-handle-resolver"
+  },
   "module": "dist/use-ada-handle-resolver.esm.js",
   "size-limit": [
     {
@@ -49,6 +53,7 @@
     "@size-limit/preset-small-lib": "^8.1.0",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
+    "husky": "^8.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "size-limit": "^8.1.0",
