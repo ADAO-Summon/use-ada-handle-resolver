@@ -6,6 +6,13 @@
 
 > Works on mainnnet and the old testnet
 
+
+## Install
+
+```bash
+npm install use-ada-handle-resolver
+```
+
 ## Example
 
 Use it on input, and show the resolved address to an user. Address is returned as an empty string when no handle is resolved.
